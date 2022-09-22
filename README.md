@@ -1,6 +1,6 @@
 - Hi, I’m Blake
-- I’m interested in Data systems Engineering
+- I’m interested in Data systems Engineering, and am pursuing it at my college 
 - I’m currently learning solidworks, self teaching C++, and working on machining certifications
-- Future aspirations: Build my own electric vehicle, and understand the full usages of command prompt and what it can do for a personal pc.
+- Future aspirations: Build my own electric vehicle; and understand the full usages of command prompt and what it can do for a personal pc.
 - 📫 How to reach me
       -Please see resume for contact info

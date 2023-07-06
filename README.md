@@ -1,6 +1,6 @@
 - Hi, I’m Blake
-- I’m interested in Data systems Engineering, and am pursuing it at my college 
-- I’m currently learning solidworks, self teaching C++, and working on machining certifications
-- Future aspirations: Build my own electric vehicle; Understand the full usages of command prompt and what it can do for a personal file managment.
+- I’m interested in robotics and autonomous engineering, and I am pursuing it as my degree at Cal Poly SLO.
+- I’m currently learning C++ and autocad while working on machining certifications. I am comfortable in Python, matlab, and solidworks.
+- Future aspirations: Build my own electric vehicle with autonomous capabilities. 
 - 📫 How to reach me
       -Please see resume for contact info

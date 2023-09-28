@@ -3,4 +3,4 @@
 - I’m currently learning C++ and autocad while working on machining certifications. I am comfortable in Python, matlab, and solidworks.
 - Future aspirations: Build my own electric vehicle with autonomous capabilities. 
 - 📫 How to reach me
-      -Please see resume for contact info
+      -I can be contacted through my linkedin link or email/phone on my resume.

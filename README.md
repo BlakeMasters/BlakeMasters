@@ -1,6 +1,6 @@
 - Hi, I’m Blake
-- I’m interested in robotics and autonomous engineering, and I am pursuing it as my degree at Cal Poly SLO.
-- I’m currently learning C++ and autocad while working on machining certifications. I am comfortable in Python, matlab, and solidworks.
+- I’m an engineering student at Cal Poly SLO.
+
 - Future aspirations: Build my own electric vehicle with autonomous capabilities. 
 - 📫 How to reach me
       -I can be contacted through my linkedin link or email/phone on my resume.

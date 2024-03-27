@@ -1,6 +1,6 @@
 - Hi, I’m Blake
 - I’m an engineering student at Cal Poly SLO.
-- I'm currently planning a Quantum rasberry Pi project
+- I'm currently learning neural network design.
 
 - Future aspirations: Build my own electric vehicle with autonomous capabilities. 
 - 📫 How to reach me

@@ -1,3 +1,3 @@
 - Hi, I’m Blake
 - I'm currently learning exploration optimization and stochastic theory.
-- check out ocura-oss on PyPI: https://pypi.org/project/ocura-oss/
+- check out ocura-oss on PyPI (pip install ocura-oss): https://pypi.org/project/ocura-oss/

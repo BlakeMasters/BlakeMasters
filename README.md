@@ -1,3 +1,4 @@
 - Hi, I’m Blake
 - I'm currently learning exploration optimization and stochastic theory.
 - check out ocura-oss on PyPI (pip install ocura-oss): https://pypi.org/project/ocura-oss/
+    - good for agent controlled experimentation and ledging.

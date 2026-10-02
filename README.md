@@ -1,3 +1,5 @@
-- Hi, I’m Blake
-- check out ocura-oss on PyPI (pip install ocura-oss): https://pypi.org/project/ocura-oss/
+- lover of critters, builder of layers
+- 
+- pip install ocura-oss
+- https://pypi.org/project/ocura-oss/
     - good for agent controlled experimentation and ledging.
